@@ -10,11 +10,11 @@ while not sleeping:
 ```
 
 ## 💻 Tech Stuff I'm Into
-- Backend and architecture
-- Python 
-- Java
-- Currently learning RESTFUL API development with Flask
-- Open source enthusiast and interested in social change
+- 🏗️ Backend and architecture
+- 🐍 Python
+- ☕ Java
+- 🌐 Currently learning RESTFUL API development with Flask
+- 🌱 Open source enthusiast and interested in social change
 
 ## 🎯 Current Status
 - 🎓 Finishing my Computer Science degree
