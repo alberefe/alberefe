@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Alberto
+# Hey there! 👋
 
 ```python
 while not sleeping:
