@@ -19,12 +19,12 @@ while not sleeping:
 ## 🎯 Current Status
 - 🎓 Finishing my Computer Science degree
 - 🔭 Working on a module for Grimoirelab (my first open source contribution!)
-- 🌱 Falling the internet rabbit hole every night
+- 🌱 Falling down the internet rabbit hole every night
 - 📚 Reading more books that I can handle
 
 ## 🛠️ Recent Projects
 - 🕷️ WebCrawler: Because automation makes me happy
-- 🔐 Grimoirelab Enigma: making credential management more secure and, you guessed, automatic.
+- 🔐 Grimoirelab Enigma: making credential management more secure and, you guessed it, automatic.
 
 ## 📫 Where to find me
 - alberefe@gmail.com
