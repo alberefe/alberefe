@@ -1,7 +1,29 @@
-👋 Hi there!
+# Hey there! 👋 I'm Alberto
 
-I'm a curious guy diving into backend development and with a strong interest in social change and open source. In my free time I also enjoy making music and reading more books that I can finish. 
+```python
+while not sleeping:
+    code()
+    coffee.drink() 
+    make_music()
+    coffee.drink()
+    read_books()
+```
 
-Currently learning REST API development with Flask and contributing to my first open source project, Grimoirelab. 
+## 💻 Tech Stuff I'm Into
+- Backend wizardry (still learning the spells)
+- Python 🐍
+- Currently learning RESTFUL API development with Flask
+- Open source enthusiast and interested in social change
 
+## 🎯 Current Status
+- 🎓 Finishing my Computer Science degree
+- 🔭 Working on a module for Grimoirelab (my first open source contribution!)
+- 🌱 Falling the internet rabbit hole every night
+- 📚 Reading more books that I can handle
 
+## 🛠️ Recent Projects
+- 🕷️ WebCrawler: Because automation makes me happy
+- 🔐 Grimoirelab Enigma: making credential management more secure and, you guessed, automatic.
+
+## 📫 Where to find me
+- alberefe@gmail.com
