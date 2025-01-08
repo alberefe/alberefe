@@ -10,8 +10,9 @@ while not sleeping:
 ```
 
 ## 💻 Tech Stuff I'm Into
-- Backend wizardry (still learning the spells)
-- Python 🐍
+- Backend and architecture (still learning the spells)
+- Python 
+- Java
 - Currently learning RESTFUL API development with Flask
 - Open source enthusiast and interested in social change
 
