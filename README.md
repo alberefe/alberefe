@@ -1,13 +1,6 @@
 # Hey there! 👋
 
-```python
-while not sleeping:
-    code()
-    coffee.drink() 
-    make_music()
-    coffee.drink()
-    read_books()
-```
+
 
 ## 💻 Tech Stuff I'm Into
 - 🏗️ Backend and architecture
