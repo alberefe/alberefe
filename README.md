@@ -16,8 +16,9 @@
 - 📚 Reading more books that I can handle
 
 ## 🛠️ Recent Projects
+- :sunny: What weather: learning about RESTful API and system design
 - 🕷️ WebCrawler: Because automation makes me happy
-- 🔐 Grimoirelab Enigma: making credential management more secure and, you guessed it, automatic.
+- 🔐 Grimoirelab Enigma: making credential management more secure and, you guessed it, automatic
 
 ## 📫 Where to find me
 - alberefe@gmail.com
